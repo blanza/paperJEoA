@@ -2,8 +2,8 @@
 
 This repository contains code and data from our paper looking at evolution labor force participation in Brazil, recent trends and forecasts, and estimates of the duration of retirement in Brazil for both malers and females. Paper is accepted for publication - The Journal of Econonomics of Aging. The paper is co-authored by: Matheus Ferreira and Bernardo L. Queiroz. 
 
-1) R code (Lee-Carter model) to forecast labor force participation rates
-2) R code to estimate duration of retirement 
+1) R code (Lee-Carter model) to forecast labor force participation rates (article_complete_wpp2019_revJEoA.R)
+2) R code to estimate duration of retirement (article_complete_wpp2019_revJEoA.R)
 3) Database (aggregated data) to produce estimates
 4) Estimates of Labor Force Participation
 5) Estimates of Duration of Retirement
