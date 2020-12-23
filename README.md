@@ -12,7 +12,7 @@ This repository contains code and data from our paper looking at evolution labor
 #Information about the paper
 
 Bernardo L. Queiroz - Universidade Federal de Minas Gerais and Cedeplar - lanza@cedeplar.ufmg.br - https://orcid.org/0000-0002-2890-1025
-Matheus Lobo Alves Ferreira - Independent Researcher - matheuslobo.ufmg@gmail.com 
+Matheus Lobo Alves Ferreira - Independent Researcher - matheuslobo.ufmg@gmail.com - https://github.com/mattlobo
 
 Link to the paper: https://www.sciencedirect.com/science/article/pii/S2212828X20300694
 
